@@ -1,0 +1,3 @@
+data/raw/*.wav
+data/processed/*.wav
+data/spectrogram_images/*.png
